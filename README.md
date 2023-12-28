@@ -47,10 +47,10 @@ def max_marks(list1):
 1) ![image](https://github.com/nithish467/FindMaximum/assets/150232274/c3e5000c-9587-4853-835e-17f0d3842450)
 
 
-2) ![Screenshot 2023-12-28 093811](https://github.com/nithish467/FindMaximum/assets/150232274/7956e4a1-3069-416c-992e-e01fcafb487a)
+2) ![image](https://github.com/nithish467/FindMaximum/assets/150232274/20bbeb91-8dd9-46fd-b82e-ef877984c380)
 
 
-3) ![Screenshot 2023-12-28 093732](https://github.com/nithish467/FindMaximum/assets/150232274/792ff3ac-8f31-46aa-a4f2-6d67a1d4d754)
+3) ![image](https://github.com/nithish467/FindMaximum/assets/150232274/2520fd14-d4a6-4f26-8ea1-84dd4e29b0a5)
 
 
 
