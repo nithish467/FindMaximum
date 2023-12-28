@@ -44,7 +44,7 @@ def max_marks(list1):
 ```
 ## Sample Input and Output
 
-1) ![image](https://github.com/nithish467/FindMaximum/assets/150232274/49553336-2740-4f23-8e8f-ad91771d46c3)
+1) ![image](https://github.com/nithish467/FindMaximum/assets/150232274/c3e5000c-9587-4853-835e-17f0d3842450)
 
 
 2) ![Screenshot 2023-12-28 093811](https://github.com/nithish467/FindMaximum/assets/150232274/7956e4a1-3069-416c-992e-e01fcafb487a)
